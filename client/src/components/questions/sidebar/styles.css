@@ -1,0 +1,9 @@
+.questions_sidebar_navItem{
+    font-size: 20px;
+    text-transform: capitalize;
+    font-family: "Roboto";
+    color: rgba(255,255,255,0.6);
+    width: 80%;
+    cursor: pointer;
+    /* padding: 0 10px; */
+}

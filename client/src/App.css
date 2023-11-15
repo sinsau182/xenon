@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&family=Open+Sans&family=Poppins:wght@200;400&family=Roboto&family=Ubuntu&display=swap');
+textarea:focus, input:focus{
+    outline: none;
+}
+
+*::-webkit-scrollbar{
+    display: none;
+  }
+
+ 

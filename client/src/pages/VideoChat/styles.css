@@ -1,0 +1,43 @@
+\
+.video_chat{
+	/* background-color:#824DE8; */
+	height: 100vh;
+}
+
+
+
+.video_chat_header {
+	background-color: grey;
+	height: 12vh;
+}
+.video_chat_window {
+	/* background-color: purple; */
+	height: 58vh;
+	/* background-color: grey; */
+}
+.videos{
+	background-color: #fff;
+	height: 100%;
+}
+.video_chat_contacts{
+	height: 100%;
+	/* margin: 0 20px; */
+}
+.video_chat_contact{
+   display: flex;
+   padding: 0 10px;
+   justify-content:space-between;
+   align-items: center;
+}
+.video_my{
+	background-color: blanchedalmond;
+	justify-content: center;
+	align-items: senter;
+}
+
+
+.caller {
+	text-align: center;
+	color: #fff;
+}
+

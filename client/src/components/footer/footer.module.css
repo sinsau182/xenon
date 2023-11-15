@@ -1,0 +1,8 @@
+.footer__copyright{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  height: 8vh;
+  width: 100vw;
+  color: rgb(92,108,116);
+}

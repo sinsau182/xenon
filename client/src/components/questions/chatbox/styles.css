@@ -1,0 +1,27 @@
+.chatBoxWrapper{
+    padding: 0;
+    background-color: #1A2734;
+}
+.messageBox{
+    height:76vh;
+    border-radius:0;
+    padding:2vh 15px;
+    overflow: auto;
+}
+.message{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    font-family: "Roboto";
+    
+}
+.messageIcon{
+    /* display: inline; */
+    width:20px;
+    height:20px;
+    border-radius: 50%;
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    /* background-position: center; */
+    /* background-color: grey; */
+}

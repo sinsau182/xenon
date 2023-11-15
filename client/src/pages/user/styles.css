@@ -1,0 +1,5 @@
+.verticalNavbar{
+    height:calc(100vh - 70px);
+    border: 2px solid grey;
+    position: sticky;
+}

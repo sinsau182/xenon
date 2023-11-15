@@ -1,0 +1,85 @@
+.home{
+
+    /* background-color: grey; */
+  }
+  .home_navbar{
+     height:10vh;
+     /* background-color: grey; */
+  }
+  .home_intro{
+    height:90vh;
+    background-color: #F9EBFF;
+  }
+ 
+  .home_intro_text{
+      position:absolute;
+       
+  }
+ 
+  .home_intro_slogan{
+     font-family:"Ubuntu";
+     text-align:center;
+     font-size: 24px;
+  }
+ 
+  .home_intro_aboutText{
+     font-family:"Roboto";
+     font-size:18px;
+     text-align: center;
+     color:rgb(93,108,116);
+  }
+ 
+  .home_intro_features{
+     list-style-type:none;
+     display: flex;
+  }
+  .home_intro_feature{
+     width:200px;
+         
+  }
+ 
+  .home_intro_feature{
+      padding:10px;
+      background-color: hsl(123,47%,74%);
+      font-family: "Roboto";
+      border-radius: 10px;
+      position: absolute;
+      left:15%;
+      top:30%;
+  }
+ 
+  .home_intro_feature:nth-child(2){
+     background-color: hsl(210,47%,74%);
+     left:20%;
+     top:55%;
+  }
+  .home_intro_feature:nth-child(3){
+     background-color:hsl(34,93%,77%) ;
+     left:50%;
+     transform: translate(-50%);
+     top:70%;
+  }
+  .home_intro_feature:nth-child(4){
+     background-color: hsl(295,42%,72%);
+     left:72%;
+     top:30%;
+  }
+  .home_intro_feature:nth-child(5){
+     background-color: hsl(54,76%,79%);
+     left:67%;
+     top:55%;
+  }
+ 
+  .home_intro_features_paper{
+     /* background-color:grey; */
+     display:flex;
+     justify-content:center;
+     align-items:center;
+     flex-direction:column;
+  }
+ 
+  .home_intro_features_paper p{
+     text-align: center;
+  } 
+ 
+ 

@@ -1,0 +1,56 @@
+
+
+.home_navbar{
+    height:10vh;
+    /* margin: 0; */
+    /* padding: 0; */
+    /* background-color: grey; */
+}
+.home_navbar_wrapper{
+    width:100%;
+    height: 100%;
+    /* background-color: grey; */
+    display: flex;
+    align-items: center;
+}
+
+
+.home_navbar_logo{
+    width: 15%;
+    color: purple;
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Nunito";
+    cursor: pointer;
+}
+
+.home_navbar_menu{
+    width: 70%;
+    /* background-color: grey; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    /* height: 100%; */
+}
+
+.home_navbar_menu ul{
+    list-style-type: none;
+    display: flex;
+    font-family: "Poppins";
+    gap: 20px;   
+}
+
+.home_navbar_menu ul li{
+    text-decoration: none;
+}
+
+.home_navbar_account{
+    width:15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: black; */
+}
